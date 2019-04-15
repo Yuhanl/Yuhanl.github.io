@@ -52,7 +52,7 @@
   margin-bottom: 10em;
   clear: both; }
 
-#about, #projects, #goal{
+#about, #projects, #goal, #skills{
   margin-left: 20px;
   margin-right: 20px;
   padding-top: 4em;
@@ -62,6 +62,14 @@
   display: block;
 }
 
-#about-in, #projects-in, #goal-in{
+#about-in, #projects-in, #goal-in, #skills-in{
   padding: 0 2.5em; }
+}
+
+#sneak-robber{
+  height:500px;
+}
+
+#sneak-robber-trailer{
+  width: 100%;
 }
